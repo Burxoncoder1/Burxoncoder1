@@ -1,12 +1,10 @@
-## Hi there, [Ali](https://t.me/yusupof_oo2/) here 👋🏼👨🏻‍💻
+## Hi there, [Burxon](https://t.me/burxoncoder1/) here 👋🏼👨🏻‍💻
 
-[![Instagram Badge](https://img.shields.io/badge/-aliyusupof1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/aliyusupof1)
+[![Instagram Badge](https://img.shields.io/badge/-buranbaev_life-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/buranbaev_life)
 [![](https://img.shields.io/badge/-@aliyusupof1-%23181717?style=flat-square&logo=github)](https://github.com/aliyusupof1)
-[![Telegram Badge](https://img.shields.io/badge/-@aliyusupof1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aliyusupof1 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@aliyusupof1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=aliyusupof1 "Follow on Twitter")
+[![Telegram Badge](https://img.shields.io/badge/-@burxoncoder1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/burxoncoder1 "Contact on Telegram")
 
-<-Hello, My name is Ali.  I mainly work with the frontend. I can create any site by the help of javascript, html, css, bootstrap and sass. Now, I'm learning ReactJS. I work with ruby on rails and nodejs on the site's backend part. I'm a curious and fast learner. I try to complete the given task with high quality and before the deadline.->
-
+<-Hello, My name is Burxon.  I mainly work with the Data science. I can create any site by the help of Python and C.
 <img style="margin:10px" align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300" width="400" />
 
 **Talking about Personal Stuffs:**
@@ -20,7 +18,6 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
