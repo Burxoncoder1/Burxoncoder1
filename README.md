@@ -1,7 +1,7 @@
 ## Hi there, [Burxon](https://t.me/burxoncoder1/) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-buranbaev_life-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/buranbaev_life)
-[![](https://img.shields.io/badge/-@aliyusupof1-%23181717?style=flat-square&logo=github)](https://github.com/aliyusupof1)
+[![](https://img.shields.io/badge/-@burxoncoder1-%23181717?style=flat-square&logo=github)](https://github.com/burxoncoder1)
 [![Telegram Badge](https://img.shields.io/badge/-@burxoncoder1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/burxoncoder1 "Contact on Telegram")
 
 <-Hello, My name is Burxon.  I mainly work with the Data science. I can create any site by the help of Python and C.
@@ -12,7 +12,7 @@
 - 🔭 I’m currently learning on something cool;
 - 💬 Ask me about anything. I will try to help you as much as I can;
 - I am a frontend developer, mainly interested in working with design;
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/aliyusupof1">Github</a>;
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/burxoncoder1">Github</a>;
 - 📝 I create landing pages in my spare time.
 
 
