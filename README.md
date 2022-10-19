@@ -11,9 +11,8 @@
 
 - 🔭 I’m currently learning on something cool;
 - 💬 Ask me about anything. I will try to help you as much as I can;
-- I am a frontend developer, mainly interested in working with design;
+- I am Data Scientist, mainly interested in working with data;
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/burxoncoder1">Github</a>;
-- 📝 I create landing pages in my spare time.
 
 
 ## ⚡ Technologies
