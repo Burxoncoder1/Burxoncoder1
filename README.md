@@ -27,6 +27,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Numpy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=)
+![Numpy](https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-pink?style=for-the-badge&logo=SQLite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=Matomo&logoColor=black)
+![Machine learning](https://img.shields.io/badge/Machinelearning-green?style=for-the-badge&logo=Probot&logoColor=white)
 
 <a href="https://ali-husanov-portfolo.netlify.app/"><img height="136px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
